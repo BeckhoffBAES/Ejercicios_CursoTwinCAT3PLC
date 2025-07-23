@@ -2,6 +2,7 @@
 
 
 ## 11. Presentación EtherCAT ##
+### Cuestionario ###
 1. ¿El EtherCAT es un bus propietario?
 2. ¿El EtherCAT requiere direccionamiento físico de los dispositivos conectados a ella?
 3. ¿Para qué se usan los *Distributed Clocks* (*DC*)?
@@ -13,3 +14,5 @@
 9. ¿Qué tecnología debería usar para obtener 100 muestras para cada ciclo de scan de EtherCAT?
 10.	¿Qué tecnología debería usar para obtener el tiempo exacto en que se activó una entrada digital?
 11.	¿Cómo se llama el protocolo que permite comunicación segura sobre el bus EtherCAT?
+
+### Práctico ###

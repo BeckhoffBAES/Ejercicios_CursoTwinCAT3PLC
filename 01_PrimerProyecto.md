@@ -21,5 +21,4 @@
 18.	¿Qué pasos debo seguir para activar el proyecto de TwinCAT al *runtime*? ¿Qué diferencia hay entre activar configuración y hacer login?
 	
 ### Práctico ###
-1. Crea un proyecto de cero, escanea la periferia y implementa un proyecto de PLC con un listado de variables globales que contenga todo el *process data* de los 5 esclavos EtherCAT conectados a la EK1100 del kit de formación.
-    
+1. Crea un proyecto de cero, escanea la periferia y implementa un proyecto de PLC con un listado de variables globales que contenga todo el *process data* de los 5 esclavos EtherCAT conectados a la EK1100 del kit de formación.    

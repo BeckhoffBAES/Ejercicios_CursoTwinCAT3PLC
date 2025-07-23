@@ -1,4 +1,5 @@
 ## 15. Instalación de software TwinCAT 4026 (Anexo) ##
+### Cuestionario ###
 1. ¿Qué necesito instalar previamente para instalar paquetes software 4026?
 2. ¿Qué workflow debo instalar para disponer del XAE?
 3. ¿Qué dos opciones de instalación tengo para simular proyectos de TwinCAT en mí PC de ingeniería?

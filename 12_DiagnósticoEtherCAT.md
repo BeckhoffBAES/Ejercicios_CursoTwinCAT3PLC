@@ -2,6 +2,7 @@
 
 
 ## 12. Diagnóstico EtherCAT ##
+### Cuestionario ###
 1. ¿Se puede crear una arquitectura EtherCAT offline en TwinCAT?
 2. ¿Qué debo instalar si al hacer un SCAN de EtherCAT no reconoce ningún esclavo?
 3. ¿Al comparar la configuración Offline respecto el Online, que significan los colores verde, azul y rojo?
@@ -27,3 +28,8 @@
 23.	¿En qué pestaña de un esclavo EtherCAT puedo añadir parámetros cíclicos? 
 24.	¿Qué debería configurar para que cambie un esclavo EtherCAT se cargue de forma automática su configuración cuando inicie la red EtherCAT?
 25.	¿Qué fichero necesito para integrar un esclavo de terceros en TwinCAT?
+
+### Práctico ###
+1. Vincula el state y WCstate de todos los esclavos EtherCAT presentes en el proyecto del curso TwinCAT 3 PLC a dos arrays (una para el state y otra para el WcState).
+2. Crea un programa (PRG) de diagnóstico EtherCAT que compruebe si la comunicación EtherCAT con todos los esclavos está correcta haciendo uso de la información del punto anterior.
+3. Desconecta el último esclavo EtherCAT y revisa el diagnóstico realizado. 
