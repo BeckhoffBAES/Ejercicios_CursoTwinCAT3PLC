@@ -6,4 +6,4 @@
 2. ¿Cómo se llama el FB que me permite controlar un proyecto de Scope desde PLC?
 
 ### Práctico ###
-1. Añade un variable del proyecto de PLC al scope mediante el acceso directo que aparece al hacer clic derecho sobre la variable. 
+1. Añade una variable del proyecto de PLC al scope mediante el acceso directo que aparece al hacer clic derecho sobre la variable. 
