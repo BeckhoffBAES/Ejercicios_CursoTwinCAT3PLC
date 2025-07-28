@@ -22,17 +22,17 @@
 ***
 **Datos primitivos**
 1. Declara variables de los siguientes tipos primitivos: BOOL, INT, UINT, UDINT, DINT, LREAL, BYTE, WORD, DWORD y STRING. 
-2. Calcula el tamaño de cada variable mediante la instrucción sizeof
-3. Realiza 5 igualaciones de los tipos anteriores que no implique pérdida de información
-4. Añade valores de inicialización y comentarios en la definición de las variables anteriores
+2. Calcula el tamaño de cada variable mediante la instrucción *sizeof*.
+3. Realiza 5 igualaciones de los tipos anteriores que no implique pérdida de información.
+4. Añade valores de inicialización y comentarios en la definición de las variables anteriores.
 5. Define 2 constantes en la zona de declaración con un comentario en cada una. 
 6. Declara una variable SINT y BOOL e Iguala el bit que indica el signo de la SINT a una variable tipo BOOL.
 7. Define tres variables tipo TIME para calcular el tiempo relativo entre dos llamas del programa MAIN.
 
 ***
 **Estructura de datos**
-1.	Crea un array que almacene cinco animales
-2.	Crea una enumeración que asocie el número del mes a su nombre
+1.	Crea un array que almacene cinco animales.
+2.	Crea una enumeración que asocie el número del mes a su nombre.
 3.	Crea una estructura con dos variables: nombre (STRING) y edad (USINT).
 4.	Crea un array con 10 valores del tipo de la estructura anterior. 
 5.	Rellena la estructura anterior con nombre y edades.
