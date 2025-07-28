@@ -6,4 +6,4 @@
 
 
 ### Práctico ###
-1. Aplica la solución de la pregunta 1 del cuestionario para guardar de forma persistente un array de 100 bytes declarada en un listado de variables globales.
+1. Aplica la solución de la pregunta 1 del cuestionario para guardar de forma persistente un array de 100 bytes declarado en un listado de variables globales.
