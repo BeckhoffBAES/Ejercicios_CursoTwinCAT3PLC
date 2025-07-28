@@ -4,11 +4,11 @@
 ## 12. Diagnóstico EtherCAT ##
 ### Cuestionario ###
 1. ¿Se puede crear una arquitectura EtherCAT offline en TwinCAT?
-2. ¿Qué debo instalar si al hacer un SCAN de EtherCAT no reconoce ningún esclavo?
+2. ¿Qué falta instalar en la CPU Beckhoff si al hacer un SCAN de EtherCAT no reconoce ningún esclavo conectada a ella?
 3. ¿Al comparar la configuración Offline respecto el Online, que significan los colores verde, azul y rojo?
 4. ¿Qué es y cómo puedo verificar el consumo del E-Bus?
 5. ¿Qué diferencia hay entre los *frames* cíclicos y los acíclicos?
-6. ¿Dónde puedo encontrar el estado de todos les esclavos de una red EtherCAT?
+6. ¿Dónde puedo encontrar el estado de todos les esclavos de una red EtherCAT dentro del proyecto de TwinCAT?
 7. ¿En qué estado debe estar el esclavo EtherCAT para tener comunicación cíclica y acíclica activa?
 8. ¿Cómo puedo solucionar un error de *VPRS*?
 9. ¿Qué indica el LNK_ADD Port?
@@ -26,10 +26,11 @@
 21.	¿Qué librería de PLC permite hacer diagnóstico de EtherCAT?
 22.	¿Qué es el CoE de un esclavo EtherCAT?
 23.	¿En qué pestaña de un esclavo EtherCAT puedo añadir parámetros cíclicos? 
-24.	¿Qué debería configurar para que cambie un esclavo EtherCAT se cargue de forma automática su configuración cuando inicie la red EtherCAT?
+24.	¿Qué debería configurar para que cuando substituya un esclavo EtherCAT se cargue de forma automática su configuración cuando inicie la red EtherCAT?
 25.	¿Qué fichero necesito para integrar un esclavo de terceros en TwinCAT?
 
 ### Práctico ###
 1. Vincula el state y WCstate de todos los esclavos EtherCAT presentes en el proyecto del curso TwinCAT 3 PLC a dos arrays (una para el state y otra para el WcState).
 2. Crea un programa (PRG) de diagnóstico EtherCAT que compruebe si la comunicación EtherCAT con todos los esclavos está correcta haciendo uso de la información del punto anterior.
 3. Desconecta el último esclavo EtherCAT y revisa el diagnóstico realizado. 
+4. Realiza el mismo diagnóstico que el punto 1 utilizando algún FB de la librería Tc2_EtherCAT. 
