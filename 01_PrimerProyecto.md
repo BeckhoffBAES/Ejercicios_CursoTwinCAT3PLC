@@ -10,7 +10,7 @@
 7. ¿Qué es el process data de un esclavo EtherCAT?
 8. ¿En qué color se representan las entradas y salidas de un esclavo EtherCAT respectivamente?
 9. ¿Dónde puedo cambiar el adaptador físico que usa el Master EtherCAT?
-10. ¿Qué tiempo de ciclo trabaja la tarea PlcTask que genera la plantilla de Standard PLC Project?
+10. ¿Qué tiempo de ciclo trabaja la tarea PlcTask que genera la plantilla de *Standard PLC Project*?
 11.	¿Qué programa llama la tarea PlcTask que genera la plantilla de *Standard PLC Project*?
 12.	¿En qué lenguaje se implementa el MAIN program?
 13.	¿Cómo debo declarar una variable para poderla vincular a una entrada de la EL1014?
