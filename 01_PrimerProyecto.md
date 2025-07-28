@@ -1,5 +1,5 @@
 ## 1. Primer proyecto paso a paso  ##
-### Cuestionario ###
+### Cuestionario  ###
 
 1. ¿Cómo debo tener configurado el adaptador de red de mí PC para conectar vía ADS con una CPU Beckhoff configurada de fábrica? 
 2. ¿Qué se necesita crear para disponer de una comunicación ADS entre máquinas?
