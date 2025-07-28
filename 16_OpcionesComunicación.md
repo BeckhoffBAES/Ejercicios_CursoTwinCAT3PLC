@@ -28,8 +28,9 @@
 **OPC-UA**
 1. Sigue el siguiente tutorial: https://learn.beckhoffus.com/catalog/courses/4476382
 2. Instala el paquete necesario para configurar el servidor OPC-UA desde el PC de ingeniería. 
-3. Instala el paquete necesario para publicar variables de PLC mediante el servidor OPC-UA.
+3. Instala el paquete necesario en la CPU Beckhoff para publicar variables de PLC mediante el servidor OPC-UA.
 4. Añade la excepción de firewall para el puerto 4840 de OPC-UA en la CPU Beckhoff.  
 5. Inicializa el server con el password 1 para el usuario administrador. 
 6. Configura el server para poder acceder con usuario anónimo y sin cifrado ni firma. 
 7. Configura el proyecto de PLC para publicar dos variables globales LREAL con acceso por OPC-UA de escritura y lectura. 
+8. Comprueba el correcto funcionamiento mediante el aplicativo UA-Expert.
