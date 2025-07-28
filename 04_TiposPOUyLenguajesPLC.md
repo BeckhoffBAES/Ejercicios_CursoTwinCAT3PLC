@@ -9,7 +9,7 @@
 5. ¿Un FB puede llamar otro FB?
 6. ¿Un PRG puede llamar otro PRG?
 7. ¿Qué tipo de POU puede llamar una tarea?
-8. ¿Una función hay que definir antes de ser llamada?
+8. ¿Una función, hay que definir antes de ser llamada?
 9. ¿Con que tipo de POU sería la mejor forma de programar un contador?
 10.	¿Para usar un FB hay que definirlo previamente?
 11.	¿Con que tipo de POU sería la mejor forma de programar un escalado?
@@ -17,7 +17,7 @@
 ### Práctico ###
 *** 
 **Programas (PRG)**
-1.	Crea 2 POU's tipo programa implementado en ST con un contador en cada uno. 
+1.	Crea 2 POU's tipo programa con un contador en cada uno implementado en ST. 
 2.	Llama a todos los programas anteriores desde el programa MAIN.
 3.	Haz uso de las regiones (region) por tabulación y por pragma. 
 
@@ -28,12 +28,12 @@
 
 ***
 **Funciones**
-1.	Crea una función que reciba dos números y devuelva su suma
-2.	Crea una función que reciba un array de números y devuelva el mayor de ellos
-3.	Crea una función que reciba un string y devuelva el número de vocales que contiene
-4.	Crea una función que reciba un array de *strings* y devuelva un nuevo array con las *strings* en mayúsculas
-5.	Crea una función que reciba un número y devuelva true si es primo, y false en caso contrario
-6.	Crea una función que reciba dos arrays y devuelva un nuevo array que contenga los elementos comunes entre ambos
-7.	Crea una función que reciba un array de números y devuelva la suma de todos los números pares
-8.	Crea una función que reciba un array de números y devuelva un nuevo array con cada número elevado al cuadrado
-9.	Crea una función que reciba una cadena de texto y devuelva la misma cadena con las palabras en orden inverso
+1.	Crea una función que reciba dos números y devuelva su suma.
+2.	Crea una función que reciba un array de números y devuelva el mayor de ellos.
+3.	Crea una función que reciba un string y devuelva el número de vocales que contiene.
+4.	Crea una función que reciba un array de *strings* y devuelva un nuevo array con las *strings* en mayúsculas.
+5.	Crea una función que reciba un número y devuelva true si es primo, y false en caso contrario.
+6.	Crea una función que reciba dos arrays y devuelva un nuevo array que contenga los elementos comunes entre ambos.
+7.	Crea una función que reciba un array de números y devuelva la suma de todos los números pares.
+8.	Crea una función que reciba un array de números y devuelva un nuevo array con cada número elevado al cuadrado.
+9.	Crea una función que reciba una cadena de texto y devuelva la misma cadena con las palabras en orden inverso.
