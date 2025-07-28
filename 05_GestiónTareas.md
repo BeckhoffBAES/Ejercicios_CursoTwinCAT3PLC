@@ -1,9 +1,9 @@
 
 ## 5. Gestión de tareas ##
 ### Cuestionario ###
-1. ¿Qué el tiempo base y el tiempo de ciclo?
-2. ¿Qué el *Exceed counter*?
-3. ¿Puedo configura un tiempo de ciclo menor al tiempo base?
+1. ¿Qué es el tiempo base y el tiempo de ciclo?
+2. ¿Qué es el *Exceed counter*?
+3. ¿Puedo configurar un tiempo de ciclo menor al tiempo base?
 4. ¿Cuál es el tiempo mínimo de ciclo que puedo configurar en TwinCAT?
 5. ¿Qué criterio sigue el *Automatic Priority Managment*?
 6. ¿Qué es un núcleo aislado?
