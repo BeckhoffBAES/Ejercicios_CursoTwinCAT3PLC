@@ -17,7 +17,7 @@
 ### Práctico ###
 *** 
 **Programas (PRG)**
-1.	Crea 2 POU's tipo programa con un contador en cada uno implementado en ST. 
+1.	Crea 2 POU's tipo programa con un contador ascendente en cada ciclo de PLC en cada uno implementado en ST. 
 2.	Llama a todos los programas anteriores desde el programa MAIN.
 3.	Haz uso de las regiones (region) por tabulación y por pragma. 
 
