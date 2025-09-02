@@ -24,8 +24,8 @@
 
 ***
 **Operadores (aritméticos, asignación, comparación y lógicos)**
-1.	Crea una variable para cada operación aritmética.
-2.	Crea una variable para cada tipo de operación de asignación que haga uso de las variables utilizadas para las operaciones aritméticas.
+1.	Utiliza las operaciones aritméticas de suma, resta, multiplicación y división.
+2.	Realiza la operación de 2^8, la raíz cuadrada de 64 y el valor absoluto de -125. 
 3.	Realiza comparaciones verdaderas con diferentes operadores de comparación.
 4.	Realiza 5 comparaciones falsas con diferentes operadores de comparación.
 5.	Utiliza el operador lógico and.
